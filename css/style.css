@@ -12,21 +12,21 @@
     margin-bottom: 5rem;
 }
 
-.feature-icon {
-    font-size: 100px;
-}
-
 .feature-icon-container {
-    -webkit-transition: 0.6s ease-in-out;
-    -moz-transition: 0.6s ease-in-out;
-    -o-transition: 0.6s ease-in-out;
-    transition: 0.6s ease-in-out;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
 }
 
 .feature-icon-container:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
+}
+
+.feature-icon {
+    font-size: 7rem;
 }
 
 /* JOIN SECTION */
