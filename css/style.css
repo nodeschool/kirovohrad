@@ -1,32 +1,103 @@
+/* HEADER SECTION */
+.chapter-header-row {
+    background-color: #34435E;
+    color: #FFFFFF;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.chapter-header-row h1 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+}
+
+/* FEATURES LIST SECTION */
+.chapter-features-row {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.feature-icon-container {
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+}
+
+.feature-icon-container:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.feature-icon {
+    color: #000000;
+    font-size: 7rem;
+}
+
+/* JOIN SECTION */
+.chapter-join-row {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #34435E;
+}
+
+.chapter-join-row h3 {
+    color: #FFFFFF;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.chapter-join-row p {
+    color: #FFFFFF;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 1.3rem;
+}
+
+.chapter-join-row a {
+    background-color: #34435E;
+    border: 3px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 1.3rem;
+}
+
+.chapter-join-row a:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+/* FEEDBACK SECTION */
+.chapter-feedback-row {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #E7E247;
+}
+
+.chapter-feedback-row h3 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.chapter-feedback-row p {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.3rem;
+}
+
+/* HELPERS */
 .full-width {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
     max-width: initial;
-}
-
-.chapter-name {
-    background-color: #5194EC;
-    font-family: Roboto, sans-serif;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 2.5rem;
-    line-height: 3.5rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-.chapter-name h1 {
-    color: #FFFFFF;
-}
-
-.coming-soon-info {
-    padding-top: 2rem;
-}
-
-.coming-soon-info p {
-    font-family: Helvetica, sans-serif;
-    font-weight: lighter;
-    font-size: 1.5rem;
-    line-height: 2rem;
 }
