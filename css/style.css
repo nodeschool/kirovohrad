@@ -13,7 +13,27 @@
     margin-right: auto;
 }
 
-.chapter-features-row {
+.features-column {
+    text-align: center;
+}
+
+.feature-icon-container {
+    -webkit-transition: 0.6s ease-in-out;
+    -moz-transition: 0.6s ease-in-out;
+    -o-transition: 0.6s ease-in-out;
+    transition: 0.6s ease-in-out;
+}
+
+.chapter-features-icon {
+    font-size: 100px;
+}
+
+.feature-icon-container:hover {
+    cursor: pointer;
+
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
 .features-column {
