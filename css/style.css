@@ -3,7 +3,7 @@
     background: url("./../img/header-background.jpg") center;
     color: #FFFFFF;
     min-height: 480px;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 
 .container {
@@ -53,13 +53,36 @@
 
 .feature-icon-container:hover {
     cursor: pointer;
-
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
 }
 
 .chapter-join-row {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background-color: #34435E;
+}
+
+.chapter-join-row h2, .chapter-join-row h3 {
+    color: #FFFFFF;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.chapter-join-row button {
+    margin-top: 1.5rem;
+    background-color: #34435E;
+    border: 5px solid #FFFFFF;
+    font-size: 1.3rem;
+}
+
+.chapter-join-row button:hover {
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 .chapter-footer-row {
