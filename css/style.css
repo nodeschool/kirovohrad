@@ -59,27 +59,35 @@
 }
 
 .chapter-join-row {
-    margin-top: 5rem;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     background-color: #34435E;
 }
 
-.chapter-join-row h2, .chapter-join-row h3 {
+.chapter-join-row h3 {
     color: #FFFFFF;
     font-family: Helvetica, sans-serif;
     font-weight: lighter;
     font-style: normal;
+    font-size: 2rem;
 }
 
-.chapter-join-row button {
-    margin-top: 1.5rem;
-    background-color: #34435E;
-    border: 5px solid #FFFFFF;
+.chapter-join-row p {
+    color: #FFFFFF;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
     font-size: 1.3rem;
 }
 
-.chapter-join-row button:hover {
+.chapter-join-row a {
+    background-color: #34435E;
+    border: 3px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 1.3rem;
+}
+
+.chapter-join-row a:hover {
     background-color: #FFFFFF;
     color: #000000;
 }
