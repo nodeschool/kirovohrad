@@ -6,62 +6,30 @@
     margin-bottom: 5rem;
 }
 
-.container {
-    max-width: 1200px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.features-column {
-    text-align: center;
-}
-
-.feature-icon-container {
-    -webkit-transition: 0.6s ease-in-out;
-    -moz-transition: 0.6s ease-in-out;
-    -o-transition: 0.6s ease-in-out;
-    transition: 0.6s ease-in-out;
-}
-
-.chapter-features-icon {
-    font-size: 100px;
-}
-
-.feature-icon-container:hover {
-    cursor: pointer;
-
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-}
-
-.features-column {
-    text-align: center;
-}
-
-.feature-icon-container {
-    -webkit-transition: 0.6s ease-in-out;
-    -moz-transition: 0.6s ease-in-out;
-    -o-transition: 0.6s ease-in-out;
-    transition: 0.6s ease-in-out;
-}
-
-.chapter-features-icon {
-    font-size: 100px;
-}
-
-.feature-icon-container:hover {
-    cursor: pointer;
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-}
-
+/* FEATURES LIST SECTION */
 .chapter-features-row {
-
+    margin-top: 5rem;
+    margin-bottom: 5rem;
 }
 
+.feature-icon {
+    font-size: 100px;
+}
+
+.feature-icon-container {
+    -webkit-transition: 0.6s ease-in-out;
+    -moz-transition: 0.6s ease-in-out;
+    -o-transition: 0.6s ease-in-out;
+    transition: 0.6s ease-in-out;
+}
+
+.feature-icon-container:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+/* JOIN SECTION */
 .chapter-join-row {
     padding-top: 5rem;
     padding-bottom: 5rem;
@@ -96,26 +64,28 @@
     color: #000000;
 }
 
-.chapter-footer-row {
+/* FEEDBACK SECTION */
+.chapter-feedback-row {
     padding-top: 5rem;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
     background-color: #E7E247;
 }
 
-.chapter-footer-row h3 {
+.chapter-feedback-row h3 {
     font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: lighter;
     font-size: 2rem;
 }
 
-.chapter-footer-row p {
+.chapter-feedback-row p {
     font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: lighter;
     font-size: 1.3rem;
 }
 
+/* HELPERS */
 .full-width {
     width: 100%;
     margin-left: auto;
