@@ -60,7 +60,6 @@
 
 .chapter-join-row {
     margin-top: 5rem;
-    margin-bottom: 5rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     background-color: #34435E;
@@ -86,7 +85,9 @@
 }
 
 .chapter-footer-row {
-    margin-bottom: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    background-color: #E7E247;
 }
 
 .chapter-footer-row h3 {
