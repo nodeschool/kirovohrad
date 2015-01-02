@@ -3,6 +3,7 @@
     background: url("./../img/header-background.jpg") center;
     color: #FFFFFF;
     min-height: 480px;
+    margin-bottom: 2rem;
 }
 
 .container {
