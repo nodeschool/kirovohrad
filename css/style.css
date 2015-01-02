@@ -1,9 +1,17 @@
+/* HEADER SECTION */
 .chapter-header-row {
-    background-size: cover;
-    background: url("./../img/header-background.jpg") center;
+    background-color: #34435E;
     color: #FFFFFF;
-    min-height: 480px;
-    margin-bottom: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.chapter-header-row h1 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2.5rem;
+    color: #FFFFFF;
 }
 
 /* FEATURES LIST SECTION */
