@@ -1,5 +1,7 @@
 # NodeSchool Kirovohrad Chapter
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/kirovohrad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Code of Conduct
 
 We, the organizers of **Nodeschool Kirovohrad Chapter**, are dedicated to providing aharassment-free community for everyone, regardless of sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules may be sanctioned or expelled from the community at the discretion of the organizers of **Nodeschool Kirovohrad Chapter**.
