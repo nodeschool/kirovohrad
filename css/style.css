@@ -5,7 +5,7 @@
     max-width: initial;
 }
 
-.chapter-name {
+.chapter-header-row {
     background-color: #5194EC;
     font-family: Roboto, sans-serif;
     font-style: normal;
@@ -16,17 +16,9 @@
     padding-bottom: 1rem;
 }
 
-.chapter-name h1 {
+.chapter-header-row h1 {
     color: #FFFFFF;
 }
 
-.coming-soon-info {
-    padding-top: 2rem;
-}
-
-.coming-soon-info p {
-    font-family: Helvetica, sans-serif;
-    font-weight: lighter;
-    font-size: 1.5rem;
-    line-height: 2rem;
+.features-header-row {
 }
