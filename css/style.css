@@ -1,16 +1,8 @@
 .chapter-header-row {
-    color: #FFFFFF;
-    min-height: 320px;
     background-size: cover;
     background: url("./../img/header-background.jpg") center;
-}
-
-.chapter-header-row .chapter-header-text {
-    background-color: #009688;
-}
-
-.chapter-header-row h1 {
     color: #FFFFFF;
+    min-height: 480px;
 }
 
 .chapter-features-row {
