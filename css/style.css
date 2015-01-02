@@ -86,6 +86,21 @@
 }
 
 .chapter-footer-row {
+    margin-bottom: 5rem;
+}
+
+.chapter-footer-row h3 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.chapter-footer-row p {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.3rem;
 }
 
 .full-width {
