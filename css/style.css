@@ -1,9 +1,9 @@
+/* HEADER SECTION */
 .chapter-header-row {
     background-size: cover;
     background: url("./../img/header-background.jpg") center;
     color: #FFFFFF;
     min-height: 480px;
-    margin-bottom: 5rem;
 }
 
 /* FEATURES LIST SECTION */
