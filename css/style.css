@@ -156,6 +156,42 @@
     padding-bottom: 5rem;
 }
 
+.chapter-organizers-row .organizer-photo-container {
+    text-align: center;
+}
+
+.chapter-organizers-row .organizer-photo-container img {
+    border-radius: 50%;
+    max-width: 10rem;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+}
+
+.chapter-organizers-row .organizer-photo-container img:hover {
+    border-radius: 0;
+}
+
+.chapter-organizers-row h3 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.chapter-organizers-row p {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.3rem;
+}
+
+.chapter-organizers-row .organizers-icon {
+    font-size: 10rem;
+    line-height: 0;
+}
+
 /* FEEDBACK SECTION */
 .chapter-feedback-row {
     padding-top: 5rem;
