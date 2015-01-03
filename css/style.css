@@ -106,6 +106,26 @@
     color: #000000;
 }
 
+/* NEXT EVENT SECTION */
+.chapter-next-event-row {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.chapter-next-event-row h3 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.chapter-next-event-row p {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.3rem;
+}
+
 /* FEEDBACK SECTION */
 .chapter-feedback-row {
     padding-top: 5rem;
