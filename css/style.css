@@ -36,6 +36,17 @@
     color: #000000;
 }
 
+/* DESCRIPTION SECTION */
+.chapter-description-row {
+    margin-top: 5rem;
+}
+
+.chapter-description-row p {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
 /* FEATURES LIST SECTION */
 .chapter-features-row {
     margin-top: 5rem;
