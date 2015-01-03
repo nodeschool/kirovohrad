@@ -1,17 +1,39 @@
+/* LOGO SECTION */
+.chapter-logo-row {
+    background-color: #303030;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.chapter-logo-row .logo {
+    height: 8rem;
+    min-height: 70px;
+    min-width: 212px;
+    background: url("./../img/schoollines.png") center;
+    background-size: contain;
+}
+
 /* HEADER SECTION */
 .chapter-header-row {
-    background-color: #34435E;
-    color: #FFFFFF;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    background-color: #E7E247;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .chapter-header-row h1 {
     font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: lighter;
-    font-size: 2.5rem;
-    color: #FFFFFF;
+    font-size: 2rem;
+    color: #000000;
+}
+
+.chapter-header-row h2 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.5rem;
+    color: #000000;
 }
 
 /* FEATURES LIST SECTION */
