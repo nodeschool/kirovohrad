@@ -51,26 +51,40 @@
 
 /* FEATURES LIST SECTION */
 .chapter-features-row {
-    margin-top: 5rem;
+    margin-top: 2rem;
     margin-bottom: 5rem;
 }
 
-.feature-icon-container {
+.chapter-features-row .feature-icon-container {
     -webkit-transition: 0.5s ease-in-out;
     -moz-transition: 0.5s ease-in-out;
     -o-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
 }
 
-.feature-icon-container:hover {
+.chapter-features-row .feature-icon-container:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
 }
 
-.feature-icon {
+.chapter-features-row .feature-icon {
     color: #000000;
-    font-size: 7rem;
+    font-size: 5rem;
+}
+
+.chapter-features-row h3 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.chapter-features-row p {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 1rem;
+    font-weight: lighter;
 }
 
 /* JOIN SECTION */
