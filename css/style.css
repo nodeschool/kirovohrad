@@ -126,6 +126,11 @@
     font-size: 1.3rem;
 }
 
+/* ORGANIZERS SECTION */
+.chapter-organizers-row {
+    margin-bottom: 5rem;
+}
+
 /* FEEDBACK SECTION */
 .chapter-feedback-row {
     padding-top: 5rem;
