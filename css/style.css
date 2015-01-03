@@ -16,8 +16,8 @@
 /* HEADER SECTION */
 .chapter-header-row {
     background-color: #E7E247;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .chapter-header-row h1 {
@@ -25,6 +25,14 @@
     font-style: normal;
     font-weight: lighter;
     font-size: 2rem;
+    color: #000000;
+}
+
+.chapter-header-row h2 {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1.5rem;
     color: #000000;
 }
 
