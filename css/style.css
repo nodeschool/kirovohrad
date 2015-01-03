@@ -38,7 +38,7 @@ p {
 
 /* LOGO SECTION */
 .chapter-logo-row {
-    background-color: #303030;
+    background-color: #171A21;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -119,7 +119,7 @@ p {
 
 /* ORGANIZERS SECTION */
 .chapter-organizers-row {
-    background-color: #D7E8BA;
+    background-color: #023C40;
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
@@ -145,7 +145,12 @@ p {
 
 .chapter-organizers-row .organizer-icon {
     font-size: 10rem;
+    color: #FFFFFF;
     line-height: 0;
+}
+
+.chapter-organizers-row h2, .chapter-organizers-row p {
+    color: #FFFFFF;
 }
 
 /* FEEDBACK SECTION */
