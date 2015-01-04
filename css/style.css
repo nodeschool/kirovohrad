@@ -54,7 +54,7 @@ p {
 
 /* HEADER SECTION */
 .chapter-header-row {
-    background-color: #E7E247;
+    background-color: #FFFFFF;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
@@ -112,14 +112,14 @@ p {
 
 /* NEXT EVENT SECTION */
 .chapter-next-event-row {
-    background-color: #EEFCCE;
+    background-color: #FFFFFF;
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
 
 /* ORGANIZERS SECTION */
 .chapter-organizers-row {
-    background-color: #023C40;
+    background-color: #34435E;
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
@@ -157,5 +157,5 @@ p {
 .chapter-feedback-row {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #E7E247;
+    background-color: #FFFFFF;
 }
